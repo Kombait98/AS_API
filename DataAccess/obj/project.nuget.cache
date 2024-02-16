@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wERxrOOq6Vb8l7n9mLSR0dvlsYZgVxKHBc8n0AVuhPP1hht7tjt3IaKmZRWJwRiRExpMH+6qgMLmps5hs1bYtw==",
+  "dgSpecHash": "R90PqwdpDUGM0e8HSpsQZZbf7ue7bW5VNUQMx1PCBL7RdSAvribGe8Efllhf3wGgVKbbbyibxuz+QP/5dDvAjg==",
   "success": true,
-  "projectFilePath": "/home/nillson/RiderProjects/API-MAC/DataAccess/DataAccess.csproj",
+  "projectFilePath": "/home/nillson/Documentos/Project/api/AS_API/DataAccess/DataAccess.csproj",
   "expectedPackageFiles": [
     "/home/nillson/.nuget/packages/dapper/2.1.28/dapper.2.1.28.nupkg.sha512",
     "/home/nillson/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0/microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",

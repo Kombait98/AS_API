@@ -606,11 +606,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/nillson/RiderProjects/API-MAC/DataAccess/DataAccess.csproj",
+      "projectUniqueName": "/home/nillson/Documentos/Project/api/AS_API/DataAccess/DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "/home/nillson/RiderProjects/API-MAC/DataAccess/DataAccess.csproj",
+      "projectPath": "/home/nillson/Documentos/Project/api/AS_API/DataAccess/DataAccess.csproj",
       "packagesPath": "/home/nillson/.nuget/packages/",
-      "outputPath": "/home/nillson/RiderProjects/API-MAC/DataAccess/obj/",
+      "outputPath": "/home/nillson/Documentos/Project/api/AS_API/DataAccess/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/nillson/.nuget/NuGet/NuGet.Config"

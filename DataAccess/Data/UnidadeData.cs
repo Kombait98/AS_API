@@ -4,7 +4,7 @@ using DataAccess.Models;
 
 namespace DataAccess.Data;
 
-public class UnidadeData
+public class UnidadeData : IUnidadeData
 {
     private readonly IsqlDataAccess _dataAccess;
 
