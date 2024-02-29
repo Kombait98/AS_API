@@ -1,6 +1,7 @@
 using DataAccess.Data;
 using DataAccess.DbAccess;
 using Microsoft.AspNetCore.Mvc.ApplicationParts;
+using MySqlConnector;
 using WebApplication1;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -10,6 +11,8 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddSingleton<IsqlDataAccess, sqlDataAccess>();
 builder.Services.AddSingleton<IUnidadeData,UnidadeData>();
+
+builder.Services.AddTransient(x => new MySqlConnection(builder.Configuration.GetConnectionString("con01")));
 
 var app = builder.Build();
 

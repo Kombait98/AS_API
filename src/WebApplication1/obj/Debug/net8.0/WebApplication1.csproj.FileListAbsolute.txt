@@ -76,3 +76,4 @@
 /home/nillson/Documentos/Project/api/AS_API/src/WebApplication1/obj/Debug/net8.0/WebApplication1.pdb
 /home/nillson/Documentos/Project/api/AS_API/src/WebApplication1/obj/Debug/net8.0/WebApplication1.genruntimeconfig.cache
 /home/nillson/Documentos/Project/api/AS_API/src/WebApplication1/obj/Debug/net8.0/ref/WebApplication1.dll
+/home/nillson/Documentos/Project/api/AS_API/src/WebApplication1/bin/Debug/net8.0/MySqlConnector.dll
